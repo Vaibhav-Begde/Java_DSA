@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0334-increasing-triplet-subsequence) |
 ## Greedy
 |  |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0443-string-compression) |
 ## String
 |  |
