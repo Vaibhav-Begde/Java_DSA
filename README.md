@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0443-string-compression) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
 | ------- |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0392-is-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
