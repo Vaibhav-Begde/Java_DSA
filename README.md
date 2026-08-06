@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1732-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
