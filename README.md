@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
