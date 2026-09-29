@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1732-find-the-highest-altitude) |
+| [1929-concatenation-of-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Greedy
 |  |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
