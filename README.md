@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0443-string-compression) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
