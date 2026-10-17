@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1207-unique-number-of-occurrences) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Binary Search
