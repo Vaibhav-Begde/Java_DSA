@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0392-is-subsequence) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0141-linked-list-cycle) |
 | [0904-fruit-into-baskets](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/vaibhavbegde2034-dotcom/Java_DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
